@@ -1,16 +1,15 @@
-Markdown
-# İlk PCB Tasarımım: Nabız Sensörü
+# First PCB Design: Pulse Sensor
 
-![3D Görünüm](tasarim.png)
+![3D View](tasarim.png)
 
-Bu proje, KiCad kullanarak tasarladığım ilk elektronik devredir. LM358 op-amp kullanarak bir parmak nabız sensörü tasarladım.
+This project is my first electronic circuit design created using KiCad. I designed a finger pulse sensor based on the LM358 operational amplifier.
 
-## Proje İçeriği
-- **Şematik:** `pulse_sensor.kicad_sch`
-- **PCB Tasarımı:** `pulse_sensor.kicad_pcb`
-- **Üretim Dosyaları:** `Gerber.zip`
+## Project Content
+- **Schematic:** `pulse_sensor.kicad_sch`
+- **PCB Design:** `pulse_sensor.kicad_pcb`
+- **Manufacturing Files:** `Gerber.zip`
 
-## Neler Öğrendim?
-- Şematik sembolleri ve footprint atamayı.
-- PCB üzerinde track (yol) çizmeyi ve bakır alan oluşturmayı.
-- Üretim için Gerber ve Drill dosyaları
+## What I Learned
+- Creating schematic symbols and assigning footprints.
+- Routing tracks on PCB and creating copper pours.
+- Preparing Gerber and Drill files for manufacturing.
